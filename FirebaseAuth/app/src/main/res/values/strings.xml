@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CaCelu</string>
+    <string name="app_name">CACELU</string>
     <string name="action_sign_in_short">Cadastrar</string>
     <string name="email">Email</string>
     <string name="minimum_password">Senha muito curta, digite pelo menos 6 caracteres!</string>
